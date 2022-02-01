@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nettt/static/css/main.073c9b0a.css",
-    "main.js": "/nettt/static/js/main.16ed9e05.js",
+    "main.js": "/nettt/static/js/main.f0f1085b.js",
     "static/js/787.ec704a7a.chunk.js": "/nettt/static/js/787.ec704a7a.chunk.js",
     "index.html": "/nettt/index.html",
     "main.073c9b0a.css.map": "/nettt/static/css/main.073c9b0a.css.map",
-    "main.16ed9e05.js.map": "/nettt/static/js/main.16ed9e05.js.map",
+    "main.f0f1085b.js.map": "/nettt/static/js/main.f0f1085b.js.map",
     "787.ec704a7a.chunk.js.map": "/nettt/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.16ed9e05.js"
+    "static/js/main.f0f1085b.js"
   ]
 }
