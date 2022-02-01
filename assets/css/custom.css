@@ -1585,3 +1585,57 @@ a:hover,a:focus{
     width: 90%;
     text-transform: capitalize;
 }
+/************************OTP PAGE CSS***********************/
+.card-one {
+    width: 400px;
+    border: none;
+    height: 300px;
+    box-shadow: 0px 5px 20px 0px #d2dae3;
+    z-index: 1;
+    /* / display: flex; / */
+    justify-content: center;
+    background-color: #ebebeb;
+    align-items: center
+}
+.center-div{
+    margin-top: 10%;
+}
+
+.card-one h6 {
+    color: rgb(255, 77, 22);
+    font-size: 20px
+}
+
+.inputs input {
+    width: 40px;
+    height: 40px
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0
+}
+.card-2 .content {
+    margin-top: 15px
+}
+
+.card-2 .content a {
+    color: rgb(255, 77, 22);
+    margin-left: 15px;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border: 1px solid rgb(255, 77, 22)
+}
+
+.validate {
+    border-radius: 20px;
+    height: 40px;
+    background-color: rgb(255, 77, 22);
+    border: 1px solid rgb(255, 77, 22);
+    width: 140px
+}
