@@ -337,6 +337,7 @@ a:hover,a:focus{
     text-align: left;
     margin-left: 21px;
     font-size: 14px;
+    color: red;
 }
 .agentbutton{
     /* background-color: rgb(0, 36, 96);
@@ -1697,7 +1698,13 @@ a:hover,a:focus{
 .currency-li{
     margin: 0 5px 0 5px;
 }
-
+/*  patron send with country page-----------*/
+/****************02/02/2022----------/-/>yousuf</-/*******/
+.rm-country-select-box {
+    padding: 2px;
+    width: 98%;
+    margin: 0 auto 1%;
+}
 
 /***************01.02.2022/-/>yousuf</-/*******************/
 /************************OTP PAGE CSS***********************/
@@ -1729,11 +1736,20 @@ a:hover,a:focus{
     align-items: center;
 }
 .card-one input {
-    font-weight: bold;
-    font-size: 18px;
+    font-weight: bolder;
+    font-size: 25px;
 }
-.height-100 .card-one{ 
-    margin: 25% auto;
+.height-100 .position-relative{ 
+    margin: 8% auto;
+}
+
+
+p.otp-error {
+    color: red;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 25px;
 }
 /* .center-div{
     margin-top: 10%;
@@ -1805,14 +1821,15 @@ input[type=number]::-webkit-outer-spin-button {
 .ot-info{
     margin: 2% auto auto auto;
 }
+#otp-background{
+    background-color: #eee;
+    margin: 4.9% auto auto auto !important;
+    height: 34pc !important;
+    overflow: hidden;
+}
 .otp-resend{
     cursor: pointer;
 }
 .otp-form{
     margin: 0% 0% 5% 0%;
-}
-#otp-background{
-    background-color: #eee;
-    margin: 5% auto auto auto !important;
-    height: 35pc !important;
 }
